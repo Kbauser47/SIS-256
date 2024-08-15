@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    border: 1px black;
+    width: 80%;
+    margin: auto;
+    flex-flow: nowrap;
+    justify-content: space-between;
+   /* margin: auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-flow: row nowrap;
+    justify-content: space-between;*/
+}
+.item{
+    width: 200px;
+    border: 2px solid rgb(249, 248, 148);
+    background-color: orange;
+    
+}
